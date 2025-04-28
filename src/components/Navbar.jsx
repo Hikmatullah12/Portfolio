@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FiMenu } from "react-icons/fi";
 import { IoIosClose } from "react-icons/io";
-import pic from "../../public/Hikmat.png"
+import pic from "../../public/logo.png"
 import {Link, link} from "react-scroll"
 
 

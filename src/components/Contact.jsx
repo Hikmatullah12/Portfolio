@@ -25,7 +25,7 @@ function Contact() {
             </div>
             <div className='flex flex-col mb-4'>
                 <label className='block text-gray-700'>Email Address</label>
-    t            <input
+                <input
                  className='shadow rounded-lg appearance-none border py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline bg-amber-50'
                 type="text"
                 name='email'
