@@ -23,11 +23,9 @@ function About() {
          <h1 className='text-green-600 font-semibold text-2xl'>Skills & Expertise
           
          </h1>
-         <span>Web Development Course, University of Gujrat (UOG), 4th Semester
-
-Information Security Course, University of Gujrat (UOG), 4th Semester
-
-Artificial Intelligence (AI) Course, University of Gujrat (UOG), 4th Semester
+         <span> Web Development Course, University of Gujrat (UOG) at 4th Semester
+          <br />Information Security Course, University of Gujrat (UOG) at 4th Semester
+           <br />Artificial Intelligence (AI) Course, University of Gujrat (UOG), 4th Semester
          </span>
          <br />
          <br />
