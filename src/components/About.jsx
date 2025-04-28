@@ -16,18 +16,18 @@ function About() {
          <h1 className='text-green-600 font-semibold text-2xl'>Education & Training
 
          </h1>
-         <span>[Degree/Certification], [Institution], [Year] [Degree/Certification],
-
-         [Institution], [Year] [Relevant Course], [Platform/Institution], [Year]
+         <span>F.Sc (Intermediate in Science), Science College Quetta, 2022
          </span>
          <br />
          <br />
          <h1 className='text-green-600 font-semibold text-2xl'>Skills & Expertise
           
          </h1>
-         <span>[Degree/Certification], [Institution], [Year] [Degree/Certification],
+         <span>Web Development Course, University of Gujrat (UOG), 4th Semester
 
-         [Institution], [Year] [Relevant Course], [Platform/Institution], [Year]
+Information Security Course, University of Gujrat (UOG), 4th Semester
+
+Artificial Intelligence (AI) Course, University of Gujrat (UOG), 4th Semester
          </span>
          <br />
          <br />
